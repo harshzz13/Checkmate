@@ -1,6 +1,6 @@
-# Attendly 💼
+# Checkmate💼
 
-**Attendly** is a powerful and efficient **attendance management system** designed for seamless tracking and record-keeping. With a user-friendly interface and a robust backend, **Attendly** simplifies attendance tracking, making it easier for organizations to manage attendance effortlessly.  
+**Checkmate** is a powerful and efficient **attendance management system** designed for seamless tracking and record-keeping. With a user-friendly interface and a robust backend, **Checkmate** simplifies attendance tracking, making it easier for organizations to manage attendance effortlessly.  
 
 ---
 
